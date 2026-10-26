@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /archive/
-Disallow: /print_v4.html
-
-Sitemap: https://skandiz.github.io/mcode-portfolio/sitemap.xml
